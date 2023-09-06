@@ -1,0 +1,17 @@
+#body {
+    margin: 0px;
+    background-color: black;
+}
+
+#header {
+    background-color: darkslategrey;
+    color: aliceblue;
+    align-self: center;
+}
+
+#main {
+    color: lightslategray;
+    background-image: 'record.png';
+    background-repeat: stretch;
+    padding: 1em;
+}
